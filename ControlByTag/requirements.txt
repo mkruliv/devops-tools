@@ -1,0 +1,4 @@
+awscli==1.16.167
+boto3==1.11.9
+botocore==1.14.9
+jsonschema==2.6.0
